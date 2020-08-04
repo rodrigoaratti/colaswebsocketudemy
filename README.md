@@ -1,9 +1,3 @@
-# Notas:
+# Aplicación de Colas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+Aplicación de colas realizada con node, express y websockets
